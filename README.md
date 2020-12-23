@@ -6,6 +6,12 @@ Ultimately, I hope to use this to expand my knowledge of various technologies.
 ## High Level Description
 Rocco Taco is a taco resturant owned and operated by my dog Rocco.  It has a menu for the public to browse including descriptions, photos, and prices.  The public can place orders for pick up.  The application also has an admin mode where Roccoc can update the menu, and he can view orders and update them as ready for pickup.
 
+I wanted an application that had the following:
+* multiple levels of authorization (public guest, public user, admin).  
+* master/details (browse full menu, drill into details)
+* form input (place an order, create account, setup menu)
+
+
 ## Technology Goals
 Ideally this project would be able to run with little to no setup by the developer regardless of OS.  There may be versions that may require Windows when we look at .Net
 
